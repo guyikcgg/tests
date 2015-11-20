@@ -8,6 +8,6 @@ orden 5
 
 prueba 1
 prueba 2
-brueba 3 
+prueba 3 
 
 end
